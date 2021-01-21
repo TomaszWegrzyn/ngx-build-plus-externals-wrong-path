@@ -1,3 +1,5 @@
+This repository is a reproduction of an bug described here: https://github.com/manfredsteyer/ngx-build-plus/issues/238
+
 # NgxBuildPlusExternalsWrongPath
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
